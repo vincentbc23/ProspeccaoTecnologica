@@ -5,6 +5,9 @@
 **Aluno:** Vincent Biazotti Collares  
 **Data:** Junho de 2026
 
+**Vídeo de Apresentação:** https://www.youtube.com/watch?v=K6Fr_yumpSc  
+**Código da PoC (GitHub):** https://github.com/vincentbc23/ProspeccaoTecnologica/tree/main
+
 ---
 
 ## 1. Introdução e Contextualização
